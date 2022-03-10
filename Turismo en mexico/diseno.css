@@ -1,0 +1,82 @@
+
+
+div#general{
+    margin: auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 800px;
+}
+div#foto{
+    margin: auto;
+    float: left;
+    width: 15px;
+    height: 15px;
+}
+
+#img2{
+    margin: 10px;
+    float: left;
+    width: 300px;
+    height: 280px;
+}
+#img3{
+    margin: 10px;
+    float: right;
+    width: 300px;
+    height: 280px;
+}
+div#titulo{
+    float: center;
+    margin: auto;
+    width:960px;
+    height: 100px;
+    background-color:#81F781;
+}
+
+div#novedades{
+    
+    float: right;
+    width: 200px;
+    height: 700px;
+    background-color: #00FF00;
+}
+
+div#contenidos{
+    text-align: center;
+    width: 960px;
+    height: 1000px;
+    background-color: #9AFE2E;
+}
+h1{
+ color: #0004ff;
+ text-decoration: overline;
+ text-align: center;
+}
+h2{
+    color: hsl(0, 0%, 1%);
+    text-decoration:arial;
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background:#82FA58;
+    width: 1000px;
+    height: 160;
+    margin:auto;
+}
+.menu li a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: blue;
+}
+h3{
+    color: hsl(59, 100%, 50%);
+}
